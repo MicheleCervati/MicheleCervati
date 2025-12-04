@@ -37,9 +37,5 @@
 
 ###
 
-<div align="center">
-  <img src="www.linkedin.com/in/michele-cervati-2906bb32a" height="25" alt="linkedin logo"  />
-  <img src="https://www.instagram.com/michelecervati_/?utm_source=ig_web_button_share_sheet" height="25" alt="instagram logo"  />
-</div>
 
 ###
